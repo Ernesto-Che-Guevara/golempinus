@@ -37,8 +37,9 @@ go get github.com/Ernesto-Che-Guevara/golempinus/v4/dicts/ru
 package main
 
 import (
-	"github.com/aaaton/golem/v4"
-	"github.com/aaaton/golem/v4/dicts/en"
+	"github.com/Ernesto-Che-Guevara/golempinus/v4"
+	"github.com/Ernesto-Che-Guevara/golempinus/dicts/ru"
+	"fmt"
 )
 
 func main() {
@@ -48,10 +49,8 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	word := lemmatizer.Lemma("Abducting")
-	if word != "abduct" {
-		panic("The output is not what is expected!")
-	}
+	word := lemmatizer.Lemma("ветра")
+	fmt.Print(word)
 }
 ```
 
