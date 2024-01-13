@@ -34,7 +34,7 @@ uk:
 	$(MAKE) LANG=uk download package
 
 download:
-	curl https://raw.githubusercontent.com/Ernesto-Che-Guevara/lemmatization-listspinus/blob/master/lemmatization-$(LANG).txt > data/$(LANG)
+	curl https://raw.githubusercontent.com/Ernesto-Che-Guevara/lemmatization-listspinus/master/lemmatization-$(LANG).txt > data/$(LANG)
 
 package:
 	# Packaging $(LANG)
