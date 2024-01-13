@@ -25,35 +25,11 @@ It's based on the dictionaries found on [michmech/lemmatization-lists](https://g
 
 At the moment golem supports English, Swedish, French, Spanish, Italian & German, but adding another language should be no more trouble than getting the dictionary for that language. Some of which are already available on lexiconista. Please let me know if there is something you would like to see in here, or fork the project and create a pull request.
 
-English
+RUSSIAN!!!
 ```
-go get github.com/aaaton/golem/v4/dicts/en
-```
-
-Swedish
-```
-go get github.com/aaaton/golem/v4/dicts/sv
+go get github.com/Ernesto-Che-Guevara/golempinus/v4/dicts/ru
 ```
 
-French
-```
-go get github.com/aaaton/golem/v4/dicts/fr
-```
-
-German
-```
-go get github.com/aaaton/golem/v4/dicts/de
-```
-
-Spanish
-```
-go get github.com/aaaton/golem/v4/dicts/es
-```
-
-Italian
-```
-go get github.com/aaaton/golem/v4/dicts/it
-```
 
 ### Basic usage
 
