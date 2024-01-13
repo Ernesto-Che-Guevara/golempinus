@@ -5,7 +5,7 @@ This project is a dictionary based lemmatizer written in go.
 Since v4 all dictionaries need to be gotten individually.
 
 ```
-go get github.com/aaaton/golem/v4
+go get github.com/Ernesto-Che-Guevara/golempinus/v4
 ```
 
 
