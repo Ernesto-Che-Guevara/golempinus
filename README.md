@@ -1,4 +1,4 @@
-# GoLem
+# GoLemPinus
 
 This project is a dictionary based lemmatizer written in go. 
 
