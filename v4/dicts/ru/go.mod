@@ -1,5 +1,3 @@
-module github.com/aaaton/golem/v4/dicts/ru
+module github.com/Ernesto-Che-Guevara/golempinus/edit/master/v4/dicts/ru
 
 go 1.13
-
-require github.com/aaaton/golem/v4 v4.0.0
