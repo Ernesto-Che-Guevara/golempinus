@@ -19,7 +19,7 @@ A [lemmatizer](https://en.wikipedia.org/wiki/Lemmatisation) is a tool that finds
 | Swedish | sprungit   | springa |
 | French  | abattaient | abattre |
 
-It's based on the dictionaries found on [michmech/lemmatization-lists](https://github.com/michmech/lemmatization-lists), which are available under the [Open Database License](https://opendatacommons.org/licenses/odbl/summary/). This project would not be feasible without them.
+It's based on the dictionaries found on https://github.com/Ernesto-Che-Guevara/lemmatization-listspinus
 
 ### Languages
 
