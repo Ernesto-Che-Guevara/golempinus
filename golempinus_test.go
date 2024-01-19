@@ -1,4 +1,4 @@
-package golem
+package golempinus
 
 import (
 	"strings"
