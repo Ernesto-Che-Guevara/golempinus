@@ -37,15 +37,16 @@ go get github.com/Ernesto-Che-Guevara/golempinus/v4/dicts/ru
 package main
 
 import (
-	"github.com/Ernesto-Che-Guevara/golempinus/v4"
-	"github.com/Ernesto-Che-Guevara/golempinus/dicts/ru"
 	"fmt"
+
+	"github.com/Ernesto-Che-Guevara/golempinus/v4"
+	"github.com/Ernesto-Che-Guevara/golempinus/v4/dicts/ru"
 )
 
 func main() {
 	// the language packages are available under golem/dicts
 	// "en" is for english
-	lemmatizer, err := golem.New(en.New())
+	lemmatizer, err := golempinus.New(ru.New())
 	if err != nil {
 		panic(err)
 	}
