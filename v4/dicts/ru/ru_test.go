@@ -3,7 +3,7 @@ package ru
 import (
 	"testing"
 
-	"github.com/aaaton/golem/v4"
+	"github.com/Ernesto-Che-Guevara/golempinus/v4"
 )
 
 func TestRussianUsage(t *testing.T) {
