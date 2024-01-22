@@ -17,7 +17,7 @@ type LanguagePack struct {
 }
 
 // New creates a language pack for ru
-func New() golem.LanguagePack {
+func New() golempinus.LanguagePack {
 	return &LanguagePack{}
 }
 
