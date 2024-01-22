@@ -1,5 +1,7 @@
 # GoLemPinus
 
+сделано только под русский, если расширять то обязательно перименовать golem в golempinus
+
 This project is a dictionary based lemmatizer written in go. 
 
 Since v4 all dictionaries need to be gotten individually.
@@ -45,7 +47,7 @@ import (
 
 func main() {
 	// the language packages are available under golem/dicts
-	// "en" is for english
+	// "ru" для русского , остальные языки не подключены 
 	lemmatizer, err := golempinus.New(ru.New())
 	if err != nil {
 		panic(err)
