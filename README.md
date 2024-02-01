@@ -1,5 +1,5 @@
 # GoLemPinus
-
+:)
 сделано только под русский, если расширять то обязательно перименовать golem в golempinus
 
 This project is a dictionary based lemmatizer written in go. 
