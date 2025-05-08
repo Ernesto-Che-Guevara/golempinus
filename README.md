@@ -2,6 +2,8 @@
 Лемматизация, лемма, лема, лематизация, решения для лематизации, golang lemmatiazation, голенг лемма, голенг лематизация
 :)
 сделано только под русский, если расширять то обязательно перименовать golem в golempinus
+лемматизация golang, библиотека лемматизации
+
 
 This project is a dictionary based lemmatizer written in go. 
 
